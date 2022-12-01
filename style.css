@@ -3,7 +3,6 @@
 *{
    margin: 0;
    padding: 0;
-   font-family: sans-serif;
    box-sizing: border-box; 
 }
 body{
@@ -126,10 +125,10 @@ button {
     height: 24px;
 }
 .btn1{
-    color: rgb(183, 28, 28);
+    color: white;
 }
 .btn1:hover{
-    color: #fff;
+    color: black;
 }
 .btn::before{
     content: "";
@@ -149,10 +148,10 @@ button {
     height: 190%;
 }
 .btn2{
-    color: rgb(183, 28, 28);
+    color: white;
 }
 .btn2:hover{
-    color: #fff;
+    color: black;
 }
 .btn2::before{
     bottom: 0;
