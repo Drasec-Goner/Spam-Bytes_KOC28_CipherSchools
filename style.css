@@ -274,7 +274,9 @@ h1::before{
     opacity: 0;
     box-shadow: 0 0 10px #000;
 }
-
+.content figcaption a{
+    text-decoration: none;
+}
 .content:hover img{
     opacity: 0.5;
 }
